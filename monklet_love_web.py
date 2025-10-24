@@ -100,7 +100,7 @@ messages = [
     "just open this again 😌",
     "",
     "With all my love,",
-    "💞 Your favorite Hubby 💞"
+    "💞 Your one and only Hubby 💞"
 ]
 
 for msg in messages:
@@ -122,3 +122,4 @@ time.sleep(2)
 
 st.markdown("<h2 style='text-align:center; color:#fff; text-shadow:0 0 20px #ff1493;'>💌 End of Love Transmission 💌</h2>", unsafe_allow_html=True)
 st.markdown("<h3 style='text-align:center; color:#fff; text-shadow:0 0 20px #ff69b4;'>Forever yours — the Hubby who loves his Monklet 💞</h3>", unsafe_allow_html=True)
+
